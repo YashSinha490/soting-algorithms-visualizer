@@ -27,8 +27,6 @@ It compares the time taken by the different algorithm for sorting the array.
 
 ## References
 
-Inspiration taken from [coding train](https://www.youtube.com/watch?v=67k3I2GxTH8).
-
 Useful links discribing the algorithms used 
 
 - [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
