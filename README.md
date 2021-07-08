@@ -35,7 +35,5 @@ Useful links discribing the algorithms used
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
 
 
-[Back To The Top](#read-me-template)
-
 ---
 
